@@ -14,12 +14,23 @@ public class hw1_1 : MonoBehaviour
             for(int x = 0; x < texture.width; x++)
             {
                 Color color;
-                
                 if (y % 2 == 0)
-                { color = x % 2 == 0 ? Color.black : Color.white; }
+                {
+                    if (x % 2 == 0)
+                    { color = Color.black; }
+                    
+                    else
+                    { color = Color.white; }
+                }
                 else
-                { color = x % 2 == 0 ? Color.white : Color.black; }
-                
+                {
+                    if (x % 2 == 0)
+                    { color = Color.white; }
+                    
+                    else
+                    { color = Color.black; }
+                }
+
                 texture.SetPixel(x, y, color);
             }
         }
