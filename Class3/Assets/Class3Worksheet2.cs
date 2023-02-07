@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Class3Worksheet2 : MonoBehaviour
 {
@@ -33,11 +31,5 @@ public class Class3Worksheet2 : MonoBehaviour
             /* Overview of this loop is
             x = 0 & y = 1,2,3,4 || x = 1 & y = 1,2,3,4 || x = 3 & y = 1,2,3,4 */
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Class3Worksheet1 : MonoBehaviour
 {
@@ -36,11 +34,5 @@ public class Class3Worksheet1 : MonoBehaviour
     bool comp(int a, int b)
     {
         return a == b;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

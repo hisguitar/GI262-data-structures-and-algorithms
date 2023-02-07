@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class LinkList : MonoBehaviour
 {
@@ -48,11 +46,5 @@ public class LinkList : MonoBehaviour
         }
 
         // Debug.Log(((n1.next).prev).data);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

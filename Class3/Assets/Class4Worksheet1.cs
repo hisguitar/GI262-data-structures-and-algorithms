@@ -1,8 +1,7 @@
-﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Class4_1 : MonoBehaviour
+public class Class4Worksheet1 : MonoBehaviour
 {
     List<int> myListInt = new List<int>();
 
@@ -21,11 +20,5 @@ public class Class4_1 : MonoBehaviour
         {
             Debug.Log(myListInt[i]);
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

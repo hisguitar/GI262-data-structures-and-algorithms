@@ -10,6 +10,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Class2Worksheet4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Class2Worksheet5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/hw1_3.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,6 +78,11 @@
       <workItem from="1675099935679" duration="2148000" />
       <workItem from="1675181327464" duration="8302000" />
       <workItem from="1675189714281" duration="399000" />
+      <workItem from="1675190279993" duration="242000" />
+      <workItem from="1675437188335" duration="4864000" />
+      <workItem from="1675768763880" duration="58000" />
+      <workItem from="1675768849432" duration="10000" />
+      <workItem from="1675768920803" duration="456000" />
     </task>
     <servers />
   </component>

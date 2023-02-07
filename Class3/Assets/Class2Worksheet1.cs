@@ -1,11 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Class2Worksheet1 : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
         int hp = 100;
         int mp = 200;
@@ -52,11 +50,5 @@ public class Class2Worksheet1 : MonoBehaviour
         }
         
         Debug.Log("END");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
